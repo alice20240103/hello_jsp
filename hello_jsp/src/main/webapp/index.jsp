@@ -9,6 +9,7 @@
 <body>
 <%
 	String title = "Hello Kosta";
+
 %>
 <h2><%= title %></h2>
 <hr>
